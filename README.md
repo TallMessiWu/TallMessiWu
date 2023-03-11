@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to code and analyze data.
 - 💞️ I’m looking to collaborate on any small project.
 - 📫 How to reach me Junlin-Wu@foxmail.com
-- 💻 My skillsets include: Python, HTML, CSS, Javascript, Java, SQL, MongoDB, Redis,Pandas, Machine Learning...
+- 💻 My skillsets include: Python, Vue, Vite, HTML, CSS, Javascript, Java, Spring, Spring Boot, SQL, MongoDB, Redis, Pandas, Scikit-learn, PyTorch, TensorFlow, Seaborn, Excel, Tableau...
 - 🔖 Notable experience
     - Head of Development Department at UCSD CSSA.
         - [UCSD CSSA Website Frontend](https://github.com/TallMessiWu/ucsdcssa-website-vue)
