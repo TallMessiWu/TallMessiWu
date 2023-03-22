@@ -8,6 +8,6 @@
 
 欢迎查看我的代码库 👇
 
-    - [UCSD CSSA Website Frontend](https://github.com/TallMessiWu/ucsdcssa-website-vue)
-    - [UCSD CSSA Website Backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
-    - [UCSD CSSA WeChat Miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
+- [UCSD CSSA Website Frontend](https://github.com/TallMessiWu/ucsdcssa-website-vue)
+- [UCSD CSSA Website Backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
+- [UCSD CSSA WeChat Miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
