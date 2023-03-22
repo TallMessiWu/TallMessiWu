@@ -10,8 +10,9 @@
 - 🎸 I love playing the guitar in my free time.
 - 🎹 I also enjoy playing the piano.
 - ⚽ I'm a football enthusiast and love playing the sport in my free time.
-- 🎮 I love playing DOTA 2 in my free time.
-- ♟️ I'm an avid chess player.
+- ⌨️ I love playing DOTA 2 in my free time.
+- 🎮 I also like playing games of many other genres.
+- ♟️ I'm an chess lover and love to play chess whenever I need to relax.
 
 ## 🎓 Education
 
