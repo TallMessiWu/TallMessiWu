@@ -9,6 +9,7 @@ I graduated from UC San Diego with a major in Data Science and a minor in Econom
 I'm fluent in both English and Chinese, and I'm most proficient in Python 🐍. I'm highly skilled in using packages such as Pandas, Numpy, Flask, and Pytorch. I'm also familiar with Java, SQL, MongoDB, Redis, Vue, HTML, CSS, and WeChat Mini Program.
 
 Feel free to check out my repositories below 👇
+
     - [UCSD CSSA Website Frontend](https://github.com/TallMessiWu/ucsdcssa-website-vue)
     - [UCSD CSSA Website Backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
     - [UCSD CSSA WeChat Miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
