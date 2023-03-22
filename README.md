@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/TallMessiWu/TallMessiWu/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/TallMessiWu/TallMessiWu/blob/main/README.md)
 
 ## Hi there 👋
 
