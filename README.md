@@ -10,6 +10,6 @@ I'm fluent in both English and Chinese, and I'm most proficient in Python 🐍. 
 
 Feel free to check out my repositories below 👇
 
-    - [UCSD CSSA Website Frontend](https://github.com/TallMessiWu/ucsdcssa-website-vue)
-    - [UCSD CSSA Website Backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
-    - [UCSD CSSA WeChat Miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
+- [UCSD CSSA Website Frontend](https://github.com/TallMessiWu/ucsdcssa-website-vue)
+- [UCSD CSSA Website Backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
+- [UCSD CSSA WeChat Miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
