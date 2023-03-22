@@ -1,16 +1,39 @@
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/TallMessiWu/TallMessiWu/blob/main/README.md)
 [![zh](https://img.shields.io/badge/lang-zh-red.svg)](https://github.com/TallMessiWu/TallMessiWu/blob/main/README-zh.md)
 
-## Hi there 👋
+# Hi there! 👋 I'm Junlin Wu
 
-I'm a data scientist who loves to code, play soccer ⚽, guitar 🎸 and piano 🎹. I also enjoy playing chess ♟️ and DOTA 2 🎮.
+## 👨🏻‍💻 About Me
 
-I graduated from UC San Diego with a major in Data Science and a minor in Economics. During my college years, I served as the Development Director of UCSD CSSA for two years.
+- 🚀 I'm a data scientist and software engineer who loves building cool things with code.
+- 🐱 I'm a cat lover and enjoy spending time with my furry friends.
+- 🎸 I love playing the guitar in my free time.
+- 🎹 I also enjoy playing the piano.
+- ⚽ I'm a football enthusiast and love playing the sport in my free time.
+- 🎮 I love playing DOTA 2 in my free time.
+- ♟️ I'm an avid chess player.
 
-I'm fluent in both English and Chinese, and I'm most proficient in Python 🐍. I'm highly skilled in using packages such as Pandas, Numpy, Flask, and Pytorch. I'm also familiar with Java, SQL, MongoDB, Redis, Vue, HTML, CSS, and WeChat Mini Program.
+## 🎓 Education
 
-Feel free to check out my repositories below 👇
+- 🏫 I graduated from the Derryfield School in high school.
+- 🎓 I obtained my degree in Data Science with a minor in Economics from UC San Diego.
 
-- [UCSD CSSA Website Frontend](https://github.com/TallMessiWu/ucsdcssa-website-vue)
-- [UCSD CSSA Website Backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
-- [UCSD CSSA WeChat Miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
+## 💻 Technical Skills
+
+- 💪 I'm proficient in Python and highly skilled in using pandas, numpy, flask, and pytorch packages.
+- 👨‍💻 I'm also skilled in Java, SQL, MongoDB, Redis, Vue, HTML, CSS, and WeChat Mini Programs.
+
+## 🏢 Work and Leadership Experience
+
+- 🎉 I participated in UCSD CSSA for 3 years, served as the Technical Director and Development Director for 1 year respectively.
+
+## 📱 Contact Me
+
+- 📧 You can reach me at Junlin-Wu@foxmail.com.
+- 🌐 Connect with me on [Weibo](https://www.weibo.com/tallmessiwu/) and [Instagram](https://www.instagram.com/tallmessiwu/) .
+- 🚀 Check out my code repositories on [GitHub](https://github.com/TallMessiWu):
+  - [ucsdcssa-website-vue](https://github.com/TallMessiWu/ucsdcssa-website-vue)
+  - [ucsdcssa-website-backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
+  - [ucsdcssa-wechat-miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
+  - [dota2-drafting-frontend](https://github.com/TallMessiWu/dota2-drafting-frontend)
+  - [dota2-drafting-backend](https://github.com/TallMessiWu/dota2-drafting-backend)
