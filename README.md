@@ -22,7 +22,7 @@
 ## 💻 Technical Skills
 
 - 💪 I'm proficient in Python and highly skilled in using pandas, numpy, flask, and pytorch packages.
-- 👨‍💻 I'm also skilled in Java, SQL, MongoDB, Redis, Vue, HTML, CSS, and WeChat Mini Programs.
+- 👨‍💻 I'm also skilled in Java, SQL, MongoDB, Redis, Vue, Vite, HTML, CSS, and WeChat Mini Programs.
 
 ## 🏢 Work and Leadership Experience
 
@@ -33,8 +33,8 @@
 - 📧 You can reach me at Junlin-Wu@foxmail.com.
 - 🌐 Connect with me on [Weibo](https://www.weibo.com/tallmessiwu/) and [Instagram](https://www.instagram.com/tallmessiwu/) .
 - 🚀 Check out my code repositories on [GitHub](https://github.com/TallMessiWu):
-  - [ucsdcssa-website-vue](https://github.com/TallMessiWu/ucsdcssa-website-vue)
-  - [ucsdcssa-website-backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
-  - [ucsdcssa-wechat-miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
-  - [dota2-drafting-frontend](https://github.com/TallMessiWu/dota2-drafting-frontend)
-  - [dota2-drafting-backend](https://github.com/TallMessiWu/dota2-drafting-backend)
+    - [ucsdcssa-website-vue](https://github.com/TallMessiWu/ucsdcssa-website-vue)
+    - [ucsdcssa-website-backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
+    - [ucsdcssa-wechat-miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
+    - [dota2-drafting-frontend](https://github.com/TallMessiWu/dota2-drafting-frontend)
+    - [dota2-drafting-backend](https://github.com/TallMessiWu/dota2-drafting-backend)
