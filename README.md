@@ -18,6 +18,7 @@
 
 - 🏫 I graduated from the Derryfield School in high school.
 - 🎓 I obtained my degree in Data Science with a minor in Economics from UC San Diego.
+- 🏫 I am currently pursuing Master of Science in Data Science at Columbia University.
 
 ## 💻 Technical Skills
 
