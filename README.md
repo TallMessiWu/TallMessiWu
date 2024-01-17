@@ -34,6 +34,7 @@
 - 📧 You can reach me at Junlin-Wu@foxmail.com.
 - 🌐 Connect with me on [Weibo](https://www.weibo.com/tallmessiwu/) and [Instagram](https://www.instagram.com/tallmessiwu/) .
 - 🚀 Check out my code repositories on [GitHub](https://github.com/TallMessiWu):
+    - [climate_change_data_analysis](https://github.com/TallMessiWu/climate_change_data_analysis)
     - [ucsdcssa-website-vue](https://github.com/TallMessiWu/ucsdcssa-website-vue)
     - [ucsdcssa-website-backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
     - [ucsdcssa-wechat-miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
