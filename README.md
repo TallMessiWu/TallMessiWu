@@ -28,6 +28,9 @@
 ## 🏢 Work and Leadership Experience
 
 - 🎉 I participated in UCSD CSSA for 3 years, served as the Technical Director and Development Director for 1 year respectively.
+    - Here is the department website I created during my term at UCSD CSSA: https://www.wolai.com/tallmessiwu/rjeh4FU2Qrg9bXsL1SftA6.
+    - I also created a WeChat mini program. You can find it on WeChat by searching ucsdcssa.
+    - This is the [organization's website](www.ucsdcssa.com) that we built. You can also check out the website's source code repository below.
 
 ## 📱 Contact Me
 
