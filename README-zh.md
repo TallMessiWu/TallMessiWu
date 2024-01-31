@@ -30,7 +30,7 @@
 - 🎉 我参加了UCSD CSSA三年，分别担任过一年的技术总监和一年的开发总监。
     - 这个是我任期内创建的[部门网站](https://www.wolai.com/tallmessiwu/rjeh4FU2Qrg9bXsL1SftA6)。
     - 这是我们部门创建的[UCSD CSSA官方网站](www.ucsdcssa.com)。您还可以在下方查看网站的源码仓库。
-    - 我还创建了UCSD CSSA微信小程序。您可以在微信搜索*ucsdcssa*来查看。因为微信小程序官方的限制，小程序原先的大部分功能已经被移到UCSD CSSA官方网站上了。
+    - 我还创建了UCSD CSSA微信小程序。您可以在微信搜索`ucsdcssa`来查看。因为微信小程序官方的限制，小程序原先的大部分功能已经被移到UCSD CSSA官方网站上了。
 
 ## 📱 联系我
 
