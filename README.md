@@ -59,7 +59,6 @@ I love building cool things with code. Passionate about AI, Web Development, and
 | [Personal Website](https://tallmessiwu.com) | A modern, responsive portfolio website built with Vue 3, TypeScript, and Element Plus. |
 | [UCSD CSSA Website](https://github.com/TallMessiWu/ucsdcssa-website-vue) | Frontend for the UCSD CSSA official website. |
 | [UCSD CSSA Backend](https://github.com/TallMessiWu/ucsdcssa-website-backend) | Backend service for the UCSD CSSA website. |
-| [UCSD CSSA Mini Program](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram) | WeChat mini program for UCSD CSSA. |
 
 ## 📱 Contact Me
 
