@@ -24,11 +24,11 @@ I love building cool things with code. Passionate about AI, Web Development, and
 
 ## 🎓 Education
 
-- 🎓 **Columbia University** — M.S. in Data Science (Aug 2023 - Dec 2024)
-- 🎓 **University of California San Diego** — B.S. in Data Science, Minor in Economics (Sep 2019 - Mar 2023)
+- 🦁 **Columbia University** — M.S. in Data Science (Aug 2023 - Dec 2024)
+- 🔱 **University of California San Diego** — B.S. in Data Science, Minor in Economics (Sep 2019 - Mar 2023)
     - Graduated a quarter early with honors, awarded Outstanding Graduate.
 - 🏫 **The Derryfield School** — High School Diploma (Sep 2017 - Jun 2019)
-- 🏫 **Linfield Christian School** — High School (Aug 2015 - Jun 2017)
+- 📚 **Linfield Christian School** — High School (Aug 2015 - Jun 2017)
 
 ## 🏢 Work Experience
 
