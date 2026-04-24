@@ -1,45 +1,70 @@
+[![Website](https://img.shields.io/badge/🌐_tallmessiwu.com-black?style=for-the-badge)](https://tallmessiwu.com)
+
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/TallMessiWu/TallMessiWu/blob/main/README.md)
 [![zh](https://img.shields.io/badge/lang-zh-red.svg)](https://github.com/TallMessiWu/TallMessiWu/blob/main/README-zh.md)
 
 # Hi there! 👋 I'm Junlin Wu
 
+> *Developer | Photographer | Musician*
+
 ## 👨🏻‍💻 About Me
 
-- 🚀 I'm a data scientist and software engineer who loves building cool things with code.
-- 🐱 I'm a cat lover and enjoy spending time with my furry friends.
-- 🎸 I love playing the guitar in my free time.
-- 🎹 I also enjoy playing the piano.
-- ⚽ I'm a football enthusiast and love playing the sport in my free time.
-- ⌨️ I love playing DOTA 2 in my free time.
-- 🎮 I also like playing games of many other genres.
-- ♟️ I'm an chess lover and love to play chess whenever I need to relax.
+I love building cool things with code. Passionate about AI, Web Development, and Data Science. Currently focusing on Large Language Models and their applications in software engineering.
+
+- 🚀 Data Scientist & Software Engineer based in Shanghai, China.
+- 🐱 Cat lover who enjoys spending time with furry friends.
+- ⚽ Football enthusiast who loves playing the sport.
+- 🎸 Guitar player in my free time.
+- 🎹 Also enjoy playing the keyboard.
+- 📷 Photography / Cinematography enthusiast.
+- ✈️ Love traveling and exploring new places.
+- ♟️ Chess lover — my go-to when I need to relax.
+- ⌨️ DOTA 2 player.
+- 🎮 Enjoy games of many other genres too.
 
 ## 🎓 Education
 
-- 🏫 I graduated from the Derryfield School in high school.
-- 🎓 I obtained my degree in Data Science with a minor in Economics from UC San Diego.
-- 🏫 I am currently pursuing Master of Science in Data Science at Columbia University.
+- 🎓 **Columbia University** — M.S. in Data Science (Aug 2023 - Dec 2024)
+- 🎓 **University of California San Diego** — B.S. in Data Science, Minor in Economics (Sep 2019 - Mar 2023)
+    - Graduated a quarter early with honors, awarded Outstanding Graduate.
+- 🏫 **The Derryfield School** — High School Diploma (Sep 2017 - Jun 2019)
+- 🏫 **Linfield Christian School** — High School (Aug 2015 - Jun 2017)
+
+## 🏢 Work Experience
+
+- 🤖 **AI Engineer** at **Huawei Technologies Co., Ltd.** (Aug 2025 - Present)
+    - Responsible for model optimization and adaptation within the ICT Computing Product Line, identifying performance bottlenecks through operator profiling data analysis and driving ecosystem adaptation.
+    - Integrated new acceleration features, such as fused operators, to optimize overall model performance.
+
+- 🧬 **Data Analyst** at **Columbia University Medical Center** (Nov 2023 - Dec 2024)
+    - Participated in an in vivo neuronal recording project. Correlated key neuronal activity metrics with animal feeding behaviors and intake data.
+    - Developed Python scripts for data processing and analysis, quantifying the relationship between neuronal activity and feeding behavior. Visualized experimental data using Matplotlib and Seaborn.
+    - Built an automated data processing pipeline, enabling researchers to automatically analyze subsequent similar datasets.
+
+- 🎉 **Head of Development** at **UCSD CSSA** (Sep 2020 - Mar 2023)
+    - Developed the organization's website utilizing Vue.js, Vite, and Flask. Conducted usability testing and gathered feedback to enhance application functionality. Organized academic seminars and events, including the Spring Festival Gala.
+    - Created programming tutorials for 15 team members to improve their technical skills. Designed a departmental website for sharing tutorials and synchronizing daily information.
+    - [UCSD CSSA Official Website](https://www.ucsdcssa.com) · [Department Website](https://www.wolai.com/tallmessiwu/rjeh4FU2Qrg9bXsL1SftA6)
 
 ## 💻 Technical Skills
 
-- 💪 I'm proficient in Python and highly skilled in using pandas, numpy, flask, and pytorch packages.
-- 👨‍💻 I'm also skilled in Java, SQL, MongoDB, Redis, Vue, Vite, HTML, CSS, and WeChat Mini Programs.
+`Python` `Vue.js` `TypeScript` `JavaScript` `Java` `SQL` `PyTorch` `Flask` `Docker` `Redis` `MongoDB` `Git` `Linux`
 
-## 🏢 Work and Leadership Experience
+## 🚀 Projects
 
-- 🎉 I participated in UCSD CSSA for 3 years, served as the Technical Director and Development Director for 1 year respectively.
-    - Here is the [department website](https://www.wolai.com/tallmessiwu/rjeh4FU2Qrg9bXsL1SftA6) I created during my term at UCSD CSSA.
-    - This is the [UCSD CSSA official website](www.ucsdcssa.com) that we built. You can also check out the website's source code repository below.
-    - I also created a WeChat mini program. You can find it on WeChat by searching `ucsdcssa`. The majority of the functions has been moved to the UCSD CSSA official Website due to WeChat's limitation.
+| Project | Description |
+| --- | --- |
+| [Climate Analysis](https://github.com/TallMessiWu/climate_change_data_analysis) | Analyzed 100 years of climate data to visualize global warming trends using Python and D3.js. |
+| [DOTA 2 Drafter](https://github.com/TallMessiWu/dota2-drafting-frontend) | A machine learning powered tool to suggest optimal heroes for DOTA 2 matches based on enemy composition. |
+| [Personal Website](https://tallmessiwu.com) | A modern, responsive portfolio website built with Vue 3, TypeScript, and Element Plus. |
+| [UCSD CSSA Website](https://github.com/TallMessiWu/ucsdcssa-website-vue) | Frontend for the UCSD CSSA official website. |
+| [UCSD CSSA Backend](https://github.com/TallMessiWu/ucsdcssa-website-backend) | Backend service for the UCSD CSSA website. |
+| [UCSD CSSA Mini Program](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram) | WeChat mini program for UCSD CSSA. |
 
 ## 📱 Contact Me
 
-- 📧 You can reach me at Junlin-Wu@foxmail.com.
-- 🌐 Connect with me on [Weibo](https://www.weibo.com/tallmessiwu/) and [Instagram](https://www.instagram.com/tallmessiwu/) .
-- 🚀 Check out my code repositories on [GitHub](https://github.com/TallMessiWu):
-    - [climate_change_data_analysis](https://github.com/TallMessiWu/climate_change_data_analysis)
-    - [ucsdcssa-website-vue](https://github.com/TallMessiWu/ucsdcssa-website-vue)
-    - [ucsdcssa-website-backend](https://github.com/TallMessiWu/ucsdcssa-website-backend)
-    - [ucsdcssa-wechat-miniprogram](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram)
-    - [dota2-drafting-frontend](https://github.com/TallMessiWu/dota2-drafting-frontend)
-    - [dota2-drafting-backend](https://github.com/TallMessiWu/dota2-drafting-backend)
+- 🌐 **Website**: [tallmessiwu.com](https://tallmessiwu.com)
+- 📧 **Email**: Junlin-Wu@foxmail.com
+- 🐙 **GitHub**: [TallMessiWu](https://github.com/TallMessiWu)
+- 📸 **Instagram**: [@tallmessiwu](https://www.instagram.com/tallmessiwu/)
+- 📝 **Weibo**: [@tallmessiwu](https://www.weibo.com/tallmessiwu/)
