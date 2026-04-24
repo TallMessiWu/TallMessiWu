@@ -59,7 +59,6 @@
 | [个人网站](https://tallmessiwu.com) | 一个使用 Vue 3、TypeScript 和 Element Plus 构建的现代响应式作品集网站。 |
 | [UCSD CSSA 网站前端](https://github.com/TallMessiWu/ucsdcssa-website-vue) | UCSD CSSA 官方网站前端。 |
 | [UCSD CSSA 网站后端](https://github.com/TallMessiWu/ucsdcssa-website-backend) | UCSD CSSA 官方网站后端服务。 |
-| [UCSD CSSA 微信小程序](https://github.com/TallMessiWu/ucsdcssa-wechat-miniprogram) | UCSD CSSA 微信小程序。 |
 
 ## 📱 联系我
 
