@@ -54,11 +54,17 @@
 
 | 项目 | 简介 |
 | --- | --- |
-| [气候变化分析](https://github.com/TallMessiWu/climate_change_data_analysis) | 使用 Python 和 D3.js 分析 100 年的气候数据，可视化全球变暖趋势。 |
-| [DOTA 2 阵容助手](https://github.com/TallMessiWu/dota2-drafting-frontend) | 基于机器学习的工具，根据敌方阵容建议 DOTA 2 比赛的最佳英雄选择。 |
-| [个人网站](https://tallmessiwu.com) | 一个使用 Vue 3、TypeScript 和 Element Plus 构建的现代响应式作品集网站。 |
-| [UCSD CSSA 网站前端](https://github.com/TallMessiWu/ucsdcssa-website-vue) | UCSD CSSA 官方网站前端。 |
-| [UCSD CSSA 网站后端](https://github.com/TallMessiWu/ucsdcssa-website-backend) | UCSD CSSA 官方网站后端服务。 |
+| [AI Agent 构建](https://github.com/TallMessiWu/agent-building) | 四周从零逐层构建生产级 AI Agent 系统，涵盖 ReAct 循环、MCP 协议工具治理、弹性容错与 LangGraph 状态机。 |
+| [TD LLM Streamlit](https://github.com/TallMessiWu/td-llm-streamlit) | 面向 TD Bank 高管的 Gen AI 战略顾问——基于 GPT-4o + LangChain + Pinecone 的 RAG 问答系统。 |
+| [SGLang 量化评估](https://github.com/TallMessiWu/sglang_quant_eval) | SGLang 框架 MXFP8/MXFP4 量化推理在华为昇腾 NPU 上的适配与性能评估。 |
+| [虹膜识别](https://github.com/TallMessiWu/iris-recognition) | 基于深度学习的虹膜识别项目。 |
+| [DOTA 2 阵容后端](https://github.com/TallMessiWu/dota2-drafting-backend) | DOTA 2 英雄推荐与胜率预测的机器学习后端服务。 |
+| [DOTA 2 阵容前端](https://github.com/TallMessiWu/dota2-drafting-frontend) | 基于机器学习的 DOTA 2 阵容推荐工具，根据敌方阵容建议最佳英雄选择。 |
+| [个人网站](https://tallmessiwu.com) | 使用 Vue 3、TypeScript 和 Element Plus 构建的现代响应式作品集网站，VS Code 风格主题。 |
+| [个人网站后台](https://github.com/TallMessiWu/personal-website-admin) | 个人网站后台管理系统，基于 Vue 3 + TypeScript + 腾讯 CloudBase。 |
+| [UCSD CSSA 网站前端](https://github.com/TallMessiWu/ucsdcssa-website-vue) | UCSD CSSA 官方网站前端，基于 Vue.js 和 Vite 构建。 |
+| [UCSD CSSA 网站后端](https://github.com/TallMessiWu/ucsdcssa-website-backend) | UCSD CSSA 官方网站后端服务，基于 Flask 构建。 |
+| [气候分析](https://github.com/TallMessiWu/climate_change_data_analysis) | 使用 Python 和 D3.js 分析 100 年气候数据，可视化全球变暖趋势。 |
 
 ## 📱 联系我
 

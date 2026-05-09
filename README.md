@@ -54,11 +54,17 @@ I love building cool things with code. Passionate about AI, Web Development, and
 
 | Project | Description |
 | --- | --- |
+| [AI Agent Building](https://github.com/TallMessiWu/agent-building) | A production-grade AI Agent system built from scratch over 4 weeks — progressively implementing ReAct loops, MCP protocol tooling, resilient fault tolerance, and LangGraph state machines. |
+| [TD LLM Streamlit](https://github.com/TallMessiWu/td-llm-streamlit) | Gen AI Executive Advisor for TD Bank — RAG-powered strategic Q&A system built with GPT-4o, LangChain, and Pinecone. |
+| [SGLang Quant Eval](https://github.com/TallMessiWu/sglang_quant_eval) | Research and evaluation of MXFP8/MXFP4 quantization adaptation on SGLang for Huawei Ascend NPU. |
+| [Iris Recognition](https://github.com/TallMessiWu/iris-recognition) | Deep learning-based iris recognition project. |
+| [DOTA 2 Drafting Backend](https://github.com/TallMessiWu/dota2-drafting-backend) | ML-powered backend for DOTA 2 hero recommendation and win rate prediction. |
+| [DOTA 2 Drafting Frontend](https://github.com/TallMessiWu/dota2-drafting-frontend) | A machine learning powered tool to suggest optimal heroes for DOTA 2 matches based on enemy composition. |
+| [Personal Website](https://tallmessiwu.com) | A modern, responsive portfolio website built with Vue 3, TypeScript, and Element Plus, featuring VS Code-style theme. |
+| [Personal Website Admin](https://github.com/TallMessiWu/personal-website-admin) | Backend management dashboard for personal website, built with Vue 3, TypeScript, and Tencent CloudBase. |
+| [UCSD CSSA Website](https://github.com/TallMessiWu/ucsdcssa-website-vue) | Frontend for the UCSD CSSA official website, built with Vue.js and Vite. |
+| [UCSD CSSA Backend](https://github.com/TallMessiWu/ucsdcssa-website-backend) | Backend service for the UCSD CSSA website, built with Flask. |
 | [Climate Analysis](https://github.com/TallMessiWu/climate_change_data_analysis) | Analyzed 100 years of climate data to visualize global warming trends using Python and D3.js. |
-| [DOTA 2 Drafter](https://github.com/TallMessiWu/dota2-drafting-frontend) | A machine learning powered tool to suggest optimal heroes for DOTA 2 matches based on enemy composition. |
-| [Personal Website](https://tallmessiwu.com) | A modern, responsive portfolio website built with Vue 3, TypeScript, and Element Plus. |
-| [UCSD CSSA Website](https://github.com/TallMessiWu/ucsdcssa-website-vue) | Frontend for the UCSD CSSA official website. |
-| [UCSD CSSA Backend](https://github.com/TallMessiWu/ucsdcssa-website-backend) | Backend service for the UCSD CSSA website. |
 
 ## 📱 Contact Me
 
