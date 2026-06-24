@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/🌐_tallmessiwu.com-black?style=for-the-badge)](https://tallmessiwu.com)
+[![Website](https://img.shields.io/badge/🌐-tallmessiwu.com-58a6ff?style=flat)](https://tallmessiwu.com)
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/TallMessiWu/TallMessiWu/blob/main/README.md)
 [![zh](https://img.shields.io/badge/lang-zh-red.svg)](https://github.com/TallMessiWu/TallMessiWu/blob/main/README-zh.md)
