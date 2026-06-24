@@ -64,7 +64,7 @@
 
 ## 📄 学术论文
 
-- Chowdhury, S., Kamatkar, N. G., Wang, W. X., Akerele, C. A., Huang, J., **Wu, J.**, Kane, C. M., Bhave, V. M., Huang, H., Wang, X., & Nectow, A. R.（审稿中）. *Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation.* Cell.
+- Chowdhury, S., Kamatkar, N. G., Wang, W. X., Akerele, C. A., Huang, J., **Wu, J.**, Nwankpa, A., Kane, C. M., Bhave, V. M., Huang, H., Wang, X., & Nectow, A. R.（2025）. *Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation.* Cell, 188(6), 1563–1579.e18.
 - Wu, J. (2022). *A WeChat Application Combined with Convolutional Neural Network for Skin Cancer Recognition.* International Conference on Artificial Intelligence in Education (ICAIE).
 
 ## 📱 联系我
