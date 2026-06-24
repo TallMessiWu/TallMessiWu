@@ -12,7 +12,7 @@
 AI Engineer at Huawei, owning quantization and adaptation of multi-modal diffusion models and LLMs on Ascend chips. I build at the intersection of RAG, ReAct agents, and low-level inference optimization — turning ideas into verifiable, reusable engineering pipelines.
 
 - 🤖 AI Engineer based in Shanghai, China — specializing in LLM inference, Agent systems, and model quantization.
-- 🐱 Cat lover · ⚽ Football · 🎸 Guitar & 🎹 Keyboard · 📷 Photography.
+- 🐱 Cat lover · ⚽ Football · 🎸 Guitar · 🎹 Keyboard · 🎥 Videography.
 - ✈️ Travel · ♟️ Chess · ⌨️ DOTA 2 — always up for a good game or adventure.
 
 ## 🎓 Education
