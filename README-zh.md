@@ -1,11 +1,11 @@
-[![Website](https://img.shields.io/badge/🌐-tallmessiwu.com-58a6ff?style=flat)](https://tallmessiwu.com)
-
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/TallMessiWu/TallMessiWu/blob/main/README.md)
 [![zh](https://img.shields.io/badge/lang-zh-red.svg)](https://github.com/TallMessiWu/TallMessiWu/blob/main/README-zh.md)
 
 # 你好！👋 我是吴俊霖
 
 > *AI 工程师 · Agent 开发者 · 开源构建者*
+
+🌐 **[tallmessiwu.com](https://tallmessiwu.com)**
 
 ## 👨🏻‍💻 关于我
 
