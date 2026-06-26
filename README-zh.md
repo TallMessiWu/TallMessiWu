@@ -34,7 +34,7 @@
 
 - 🧬 **数据分析员** @ **哥伦比亚大学医学院**（2023年11月 - 2024年12月 | 纽约）
     - 参与活体神经元记录项目，设计端到端神经元活动分析 pipeline。通过统计建模量化神经活动与动物进食行为的时序关联，支持团队识别出关键神经肽能神经元对饱腹感的调控机制。
-    - 合著论文 *"Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation"*（*Cell* 审稿中）。开发自动化数据处理流程，被团队用于后续相似研究。
+    - 合著论文 *"Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation"*（发表于 *Cell*，2025）。开发自动化数据处理流程，被团队用于后续相似研究。
 
 - 🎉 **开发部部长** @ **UCSD CSSA**（2020年3月 - 2023年3月 | 圣地亚哥）
     - 使用 Vue.js、Vite 和 Flask 开发组织官方网站。为 15 名团队成员创建编程教程，设计部门内部知识共享网站。

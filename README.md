@@ -34,7 +34,7 @@ AI Engineer at Huawei, owning quantization and adaptation of multi-modal diffusi
 
 - 🧬 **Data Analyst** at **Columbia University Medical Center** (Nov 2023 - Dec 2024 | New York)
     - Designed end-to-end neuronal activity analysis pipeline for in vivo recording data. Quantified temporal relationships between neural activity and feeding behavior through statistical modeling, supporting identification of key neuropeptidergic neurons regulating satiation.
-    - Co-author on *"Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation"* (under review at *Cell*). Built automated data processing scripts adopted for subsequent similar studies.
+    - Co-author on *"Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation"* (published in *Cell*, 2025). Built automated data processing scripts adopted for subsequent similar studies.
 
 - 🎉 **Head of Development** at **UCSD CSSA** (Mar 2020 - Mar 2023 | San Diego)
     - Built the organization's official website with Vue.js, Vite, and Flask. Created programming tutorials for 15 team members and designed an internal knowledge-sharing portal.
